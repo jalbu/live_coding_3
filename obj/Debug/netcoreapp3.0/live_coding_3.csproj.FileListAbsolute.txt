@@ -1,0 +1,11 @@
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\obj\Debug\netcoreapp3.0\live_coding_3.csprojAssemblyReference.cache
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\obj\Debug\netcoreapp3.0\live_coding_3.AssemblyInfoInputs.cache
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\obj\Debug\netcoreapp3.0\live_coding_3.AssemblyInfo.cs
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.exe
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.deps.json
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.runtimeconfig.json
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.runtimeconfig.dev.json
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.dll
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\bin\Debug\netcoreapp3.0\live_coding_3.pdb
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\obj\Debug\netcoreapp3.0\live_coding_3.dll
+D:\My Folder\lc101\live_coding\live_coding_3\live_coding_3\obj\Debug\netcoreapp3.0\live_coding_3.pdb
